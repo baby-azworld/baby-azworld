@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+        <style>
+        h1 {
+            color:rgb(181, 90, 245);
+            background-color:rgb(247, 228, 52);
+            
+        }
+        h2 {
+            color: rgb(255, 255, 255);
+            background-color:rgb(209, 77, 209);
+        }
+        p{
+            background-color:rgb(194, 120, 255);
+        }
+        table{
+            background-color:yellow;
+        }
+        li{
+            background-color:rgb(158, 242, 238);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1 id="title">Zoha's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe-1">Macarons</a></li>
+            <li><a href="#recipe-2">Peanut Butter Blossoms</a>
+            <li><a href="#recipe-3">Chocolate chip cookies</a></li>
+            </li>
+        </ol>
+         <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/mountains-sunset.png">
+        <h2 id="recipe-1">Macaroons</h2>
+        <a href="#title">Back to top</a>
+       
+        <ul>
+            <li>Time: 1 hour</li>
+            <li>Serves: 30 sandwich cookies</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>    For the Macarons<br>
+        ½cup/65 grams blanched almond flour<br>
+        ½cup/65 grams confectioners’ sugar<br>
+        2large egg whites (60 grams), at room temperature<br>
+        ⅛teaspoon cream of tartar<br>
+        Pinch of fine sea salt<br>
+        4tablespoons/50 grams granulated sugar<br>
+        1vanilla bean, scraped<br>
+    For the Buttercream<br>
+        2large egg yolks<br>
+        ¼cup/50 grams superfine sugar<br>
+        1tablespoon water, brandy or rum<br>
+        Pinch of fine sea salt<br>
+        ½cup plus 3 tablespoons/155 grams unsalted butter,<br> cut into ½-inch cubes, at room temperature<br>
+        ¾teaspoon vanilla extract<br>
+                </td>
+                <td>30 sandwiched cookies<br>60 individual cookies</td>
+                
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    <!--<tr>
+                <td>
+                </td>
+                
+            </tr>
+            <tr>
+                <td>
+                </td>
+            </tr>-->
+
+        <p><strong>Step 1:</strong> Line 2 rimmed baking sheets with parchment paper. Sift together almond flour and confectioners’ sugar into a medium bowl.<br>
+        <br>
+        <strong>Step 2:</strong> In the bowl of an electric mixer fitted with the whisk attachment, combine egg whites, cream of tartar and salt; whisk on medium until frothy. Gradually add granulated sugar, 1 tablespoon at a time, beating well between additions. Raise speed to medium-high and beat until egg whites are stiff.<br>
+        <br>
+        <strong>Step 3: </strong>Using a rubber spatula, fold almond flour mixture and vanilla seeds into egg whites, continuing to fold until mixture is just thin enough to drop in unbroken thick ribbons off the spatula. It should hold its shape for a few seconds before sinking into the rest of the meringue. <br>
+         <br>
+        <strong>Step 4: </strong>Dab a little meringue underneath each corner of the parchment to stick it to the baking sheet, then transfer the rest of the meringue to a piping bag fitted with a ½-inch-round tip. Pipe 1-inch rounds of meringue, spaced 1 inch apart. (Hold your tip perpendicular to the sheet to ensure a round shape.) Rap the baking sheet against the counter 2 or 3 times to remove air bubbles and flatten the meringues. <br> 
+        <br>
+        <strong>Step 5: </strong>Let the meringues rest until you can poke them lightly with a finger and feel a skin; this will take 45 to 90 minutes, depending on the humidity of your kitchen. You don’t want the meringues to be sticky when you bake them.<br>
+        <br>
+        <strong>Step 6: </strong>Place a rack in the center of the oven and heat to 300 degrees. Bake one baking sheet at a time for about 20 minutes, rotating after 10 minutes. Macarons are done when you can easily lift one up from the tray to check if bottoms are light golden. Let cool completely on baking sheets. <br>
+        <br>
+        <strong>Step 7: </strong>Place a rack in the center of the oven and heat to 300 degrees. Bake one baking sheet at a time for about 20 minutes, rotating after 10 minutes. Macarons are done when you can easily lift one up from the tray to check if bottoms are light golden. Let cool completely on baking sheets.<br>
+        <br>
+        <strong>Step 8: </strong>With mixer on medium speed, add butter a little at a time, waiting until fully incorporated before adding the next piece. Scrape bowl if necessary. Beat in vanilla extract.<br>
+        <br>
+        <strong>Step 9: </strong>Transfer to a piping bag fitted with a ¼-inch-round tip. Pipe ¼-teaspoon-size mounds onto the flat sides of half the macarons. Top with remaining pieces, sandwiching them together until filling reaches the sides of the macaron. Store in an airtight container; the macarons taste better the next day when the flavors have had a chance to meld.<br>
+        <br>
+        <strong>Step 10: </strong>Enjoy!
+</p>
+        
+    <p><em>Source: <a href="https://cooking.nytimes.com/recipes/1020694-macarons?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=17">Some recipes websites</a></em></p>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-sunset.png">
+     <h2 id="recipe-2">Peanut Butter Blossoms</h2>
+             <a href="#title">Back to top</a>
+       
+        <ul>
+            <li>Time: 35 minutes</li>
+            <li>Serves: 5 dozen cookies</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>       1¾cups all-purpose flour<br>
+    1teaspoon baking soda<br>
+    ½teaspoon salt<br>
+    4ounces (1 stick) butter, at room temperature<br>
+    ½cup smooth peanut butter (or other creamy nut butter)<br>
+    ½cup granulated sugar, plus more for rolling<br>
+    ½cup light brown sugar<br>
+    1large egg<br>
+    1tablespoon milk, half-and-half, oat milk or nut milk<br>
+    1teaspoon vanilla extract<br>
+    Nonstick spray or vegetable oil for cookie sheet (optional)<br>
+    5dozen (one 11-ounce package) Hershey’s Kisses, <br>foil removed<br>
+                </td>
+                <td>
+                    5 dozen cookies
+                </td>
+                
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    <!--<tr>
+                <td>
+                </td>
+                
+            </tr>
+            <tr>
+                <td>
+                </td>
+            </tr>-->
+
+        <p><strong>Step 1:</strong>Sift together flour, baking soda and salt; set aside. Using an electric mixer, cream together butter, peanut butter, ½ cup granulated sugar and light brown sugar. Add egg, milk and vanilla; beat until well blended. Gradually add flour mixture, mixing thoroughly. If the dough is very soft, refrigerate for about 1 hour.<br>
+        <br>
+        <strong>Step 2:</strong>Preheat oven to 375 degrees. Spray, oil or line a cookie sheet with nonstick liner and set aside. Roll dough into 1-inch balls. (For a precise number of cookies, divide the dough into 5 pieces, and shape each piece into 12 balls.)<br>
+        <br>
+        <strong>Step 3: </strong>Roll cookies in sugar and place 2 inches apart on cookie sheet. Bake until very light brown and puffed, 6 to 8 minutes. Remove sheet from oven and lightly press a candy kiss into center of each cookie, allowing it to crack slightly. Return to oven until light golden brown, 2 to 3 minutes. Remove from oven, cool completely and store in an airtight container. <br>
+         <br>
+       
+
+        <strong>Step 4: </strong>Enjoy!
+</p>
+        
+    <p><em>Source: <a href="https://cooking.nytimes.com/recipes/1012939-peanut-butter-blossoms?action=click&module=Collection%20Page%20Recipe%20Card&region=Cookie%20Recipes&pgType=collection&rank=3">Some recipes websites</a></em></p>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/lake.png">
+       
+       <h2 id="recipe-3">Chocolate chip cookies</h2>
+        <a href="#title">Back to top</a>
+       
+        <ul>
+            <li>Time: 45 minutes</li>
+            <li>Serves: 1 1/2 dozen cookies</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>      2cups minus 2 tablespoons cake flour (8½ ounces)<br>
+    1⅔cups bread flour (8½ ounces)<br>
+    1¼teaspoons baking soda<br>
+    1½teaspoons baking powder<br>
+    1½teaspoons coarse salt<br>
+    1¼cups unsalted butter (2½ sticks)<br>
+    1¼cups light brown sugar (10 ounces)<br>
+    1cup plus 2 tablespoons granulated sugar (8 ounces)<br>
+    2large eggs<br>
+    2teaspoons natural vanilla extract<br>
+    1¼pounds bittersweet chocolate disks or fèves,<br> at least 60 percent cacao content <br>
+    Sea salt<br>
+                </td>
+                <td>
+                    1 1/2 dozen cookies
+                </td>
+                
+            </tr>
+            <tr>
+                <td>
+                
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    <!--<tr>
+                <td>
+                </td>
+                
+            </tr>
+            <tr>
+                <td>
+                </td>
+            </tr>-->
+
+        <p><strong>Step 1:</strong> Sift flours, baking soda, baking powder and salt into a bowl. Set aside.<br>
+        <br>
+        <strong>Step 2:</strong>Using a mixer fitted with paddle attachment, cream butter and sugars together until very light, about 5 minutes. Add eggs, one at a time, mixing well after each addition. Stir in the vanilla. Reduce speed to low, add dry ingredients and mix until just combined, 5 to 10 seconds. Drop chocolate pieces in and incorporate them without breaking them. Press plastic wrap against dough and refrigerate for 24 to 36 hours. Dough may be used in batches, and can be refrigerated for up to 72 hours.<br>
+        <br>
+        <strong>Step 3: </strong>When ready to bake, preheat oven to 350 degrees. Line a baking sheet with parchment paper or a nonstick baking mat. Set aside. <br>
+         <br>
+        <strong>Step 4: </strong>     Scoop 6 3½-ounce mounds of dough (the size of generous golf balls) onto baking sheet, making sure to turn horizontally any chocolate pieces that are poking up; it will make for a more attractive cookie. Sprinkle lightly with sea salt and bake until golden brown but still soft, 18 to 20 minutes. Transfer sheet to a wire rack for 10 minutes, then slip cookies onto another rack to cool a bit more. Repeat with remaining dough, or reserve dough, refrigerated, for baking remaining batches the next day. Eat warm, with a big napkin.
+
+Tip
+
+    Disks are sold at Jacques Torres Chocolate; Valrhon<br> 
+        <br>
+        <strong>Step 5: </strong>Enjoy!<br>
+        <br>
+       
+</p>
+        
+    <p><em>Source: <a href="https://cooking.nytimes.com/recipes/1015819-chocolate-chip-cookies?action=click&module=Collection%20Page%20Recipe%20Card&region=Our%20Best%20Chocolate%20Chip%20Cookie%20Recipes&pgType=collection&rank=1">Some recipes websites</a></em></p>
+    </body>
+</html>
